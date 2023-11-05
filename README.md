@@ -20,9 +20,9 @@ The below table must contain the details of the repositories you will create, fi
 
 |  | Project's Name | Description    | GitHub's Link  |
 |:--:|:--------------:|:--------------:|:--------------:|
-| 1 |  projects2           |  this folder contains my projects to date             | [https://](github.com/OnsongoN/projects2.git)       |
-| 2 |  projects            |  contains projects done in my data analytics training at Azubi Africa             | [https://](github.com/OnsongoN/projects.git)       |
-| 3 |  OnsongoN            |  Config files for my GitHub profile.             | [https://](github.com/OnsongoN/OnsongoN.git)       |
+| 1 |  projects2           |  this folder contains my projects to date             | [https://github.com/OnsongoN/projects2.git]       |
+| 2 |  projects            |  contains projects done in my data analytics training at Azubi Africa             | [https://github.com/OnsongoN/projects.git]       |
+| 3 |  OnsongoN            |  Config files for my GitHub profile.             | [https://github.com/OnsongoN/OnsongoN.git]       |
 
 **NB**: `Do not modify` the general structure of this table above to avoid issue of evaluation, just fill the rows .
 
